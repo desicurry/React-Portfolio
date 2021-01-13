@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Desi Curry",
+    "role": "Full Stack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like to keep my skills sharp by building websits from beginning to deployment and like to learn about new technologies, create music and simply play games in my free time",
     "socialLinks":[
         {
           "name":"linkedin",
